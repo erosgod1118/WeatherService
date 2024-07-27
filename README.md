@@ -1,0 +1,2 @@
+# WeatherService
+GO, OpenWeatherMap API
